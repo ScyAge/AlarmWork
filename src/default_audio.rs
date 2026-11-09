@@ -1,0 +1,1 @@
+pub static BELL_SOUND: &[u8] = include_bytes!("../assets/bruit-de-clochette.mp3");

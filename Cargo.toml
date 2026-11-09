@@ -7,4 +7,4 @@ edition = "2024"
 
 thiserror = "2.0.18"
 slint = "1.16.1"
-rodio = { version = "0.23.0", default-features = false, features = ["symphonia-all"] }
+rodio = { version = "0.23.0", features = ["symphonia-all"] }
